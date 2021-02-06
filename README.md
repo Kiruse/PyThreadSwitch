@@ -1,2 +1,2 @@
 # PyThreadSwitch
-Thread switching for python to aid in porting thread-based libraries to asyncio.
+Python microlibrary to run arbitrary tasks in contexts associated with a single thread.
